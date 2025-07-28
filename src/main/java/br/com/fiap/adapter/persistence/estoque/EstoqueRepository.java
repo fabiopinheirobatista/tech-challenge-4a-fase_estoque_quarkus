@@ -1,4 +1,4 @@
-package br.com.fiap.adapter.persistence;
+package br.com.fiap.adapter.persistence.estoque;
 
 import br.com.fiap.core.domain.Produto;
 import br.com.fiap.core.gateway.EstoqueGateway;
